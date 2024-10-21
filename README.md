@@ -4,12 +4,6 @@ The open-source AI chat app for everyone.
 
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
-## Local Quickstart
-
-Follow these steps to get your own Chatbot UI instance running locally.
-
-You can watch the full video tutorial [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
-
 ### 1. Clone the Repo
 
 ```bash
